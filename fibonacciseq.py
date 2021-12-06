@@ -19,8 +19,3 @@ while total < 4000000:
     print(total)
 
 print(f"Final Total: {total}")
-
-
-
-
-
